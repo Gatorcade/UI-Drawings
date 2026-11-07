@@ -1,6 +1,7 @@
 # UI-Drawings
 Below are three wireframe / UI drawings for my web application, *Think or Sink*.
-This is a time-based trivia game, and the drawings included are the home page, the game page, and the results page.
+This is a time-based trivia game, and the drawings included are the home page, the game page, and the results page. 
+**The black boxes and their text labels are strictly for wireframe/design purposes and will not be included in the final product.**
 
 __________________________________________________________________________________________________________________
 
